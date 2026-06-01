@@ -354,7 +354,7 @@ function HomePage({ year }) {
             <span className="brand-mark">MH</span>
             <div>
               <p className="brand-name">Mutahir Hussain</p>
-              <p className="brand-meta">Senior Full-Stack &amp; AI Developer</p>
+              <p className="brand-meta">Senior Full-Stack AI Solutions Engineer</p>
             </div>
           </div>
           <div className="nav-links">
@@ -373,12 +373,11 @@ function HomePage({ year }) {
         <div className="container">
           <div className="hero-grid">
             <div className="hero-copy reveal">
-              <span className="eyebrow">Senior Full-Stack &amp; AI Developer</span>
-              <h1 className="hero-h1">10+ years building mobile, web &amp; AI software that ships.</h1>
+              <span className="eyebrow">Senior Full-Stack &amp; AI Developer / Senior Full-Stack AI Solutions Engineer</span>
+              <h1 className="hero-h1">Building Intelligent Systems That Drive Business Growth</h1>
               <p className="hero-text">
-                I'm Mutahir Hussain — a senior developer specialising in React Native, React JS, C#, and
-                PHP Laravel. I design and build AI solutions including OCR pipelines and sentiment analysis
-                systems that scale in production.
+                From building scalable applications and AI-powered solutions focused on automation and
+                measurable business results&hellip; My 10+ years of experience say it all.
               </p>
               <div className="hero-actions">
                 <button type="button" className="btn-primary" onClick={() => scrollTo('portfolio')}>
@@ -544,7 +543,7 @@ function HomePage({ year }) {
 
       <footer className="site-footer">
         <div className="container">
-          <p>Mutahir Hussain — Senior Full-Stack &amp; AI Developer</p>
+          <p>Mutahir Hussain — Senior Full-Stack &amp; AI Solutions Engineer</p>
           <p>{year} &bull; React Native &middot; React JS &middot; C# &middot; PHP Laravel &middot; AI / ML</p>
         </div>
       </footer>
